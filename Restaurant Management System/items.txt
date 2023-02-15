@@ -1,0 +1,15 @@
+chicken manchurian,1200,29
+large pizza,950,99
+medium pizza,600,114
+small pizza,350,99
+biryani,320,93
+zinger burger,170,200
+cheese shawarma,150,290
+russian salad,120,100
+chicken soup,120,70
+coke,120,988
+shawarma,100,146
+fries,90,299
+coffee,90,120
+french toast,60,250
+tea,60,110

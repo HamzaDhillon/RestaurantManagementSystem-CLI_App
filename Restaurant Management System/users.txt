@@ -1,0 +1,21 @@
+hamza,11112222,ADMIN
+hello,11112222,CUSTOMER
+ok,22222222,delboy
+Ahmad,11111111,CUSTOMER
+zaid ali,12341234,ADMIN
+Hasan Ali,has12345,CUSTOMER
+sara ali,sara1234,CUSTOMER
+hammad ejaz,hamad123,CUSTOMER
+asad khan,asad4321,delboy
+hamza dhillon,12345678,CUSTOMER
+umar jameel,umar6789,CUSTOMER
+asad khan,1234asad,delboy
+asadullah khan,12345asd,delboy
+hasan,12345612,delboy
+hamid shahid,hamid123,CUSTOMER
+dr.talha,talha567,CUSTOMER
+wasif,wasif123,CUSTOMER
+subhan,subhan12,CUSTOMER
+zaid majid,zaid1234,CUSTOMER
+hassan sahi,sahi1234,CUSTOMER
+Ahmad Sahi,sahi4321,CUSTOMER

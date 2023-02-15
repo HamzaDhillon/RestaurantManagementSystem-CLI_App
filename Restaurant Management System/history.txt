@@ -1,0 +1,11 @@
+bye,576,12-09-2022
+Hasan Ali,520,13-09-2022
+sara ali,1482,13-09-2022
+hammad ejaz,640,14-09-2022
+sara ali,1805,14-09-2022
+hamza dhillon,1805,15-09-2022
+umar jameel,1225.5,15-09-2022
+hamid shahid,1805,15-09-2022
+dr.talha ,1757.5,15-09-2022
+wasif,1216,15-09-2022
+hassan sahi,640,14-09-2022

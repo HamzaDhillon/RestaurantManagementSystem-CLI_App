@@ -1,0 +1,8 @@
+bye,UET Lahore,150,50
+hello,Model Town House no.10,250,50
+sara ali,Bahria Town street 5 house 6,250,50
+hammad ejaz,Model 34336533,350,50
+hamza dhillon,Johar Town street 5 house no. 9,135,50
+subhan,Allama Iqbal town house 155,105,50
+hassan sahi,kotli sahiyan,250,0
+Ahmad Sahi,Kotli Sahiyan,500,50
